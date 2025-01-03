@@ -135,7 +135,7 @@ end)
 
 
 window:Label("Ấn X Để BẬT HOẶC TẮT", Color3.fromRGB(127, 143, 166))
-window:Label("Hold Rod to Auto Farm", Color3.fromRGB(127, 143, 166))
+window:Label("Ấn Aotu Farm Fish Trước Để Sài X", Color3.fromRGB(127, 143, 166))
 
 
 
